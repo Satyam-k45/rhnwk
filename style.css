@@ -1,0 +1,12 @@
+.footer{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    color: black;
+
+}
+.header{
+    background-color: aliceblue;
+    display: flex;
+    text-align: center;
+}
